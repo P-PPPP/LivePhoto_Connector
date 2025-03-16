@@ -22,7 +22,8 @@ if __name__ == "__main__":
     instance = utits.Core.Indexing()  # Of course you can resume your hashing by  utits.Core.Indexing(Index_File='./xxx.json')
     instance.Create_Index(
         HEIC_Path=Heic_Dir,
-        Mov_Videos_Path=Mov_Dir
+        Mov_Videos_Path=Mov_Dir,
+        Thread_Num=8
     )
     #After Indexed, Compare is necessary
     Indexed = './Indexed.json'
