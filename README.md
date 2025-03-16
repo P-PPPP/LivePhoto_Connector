@@ -48,96 +48,9 @@ With result:
 	"MOV_File": "01470.mov",
 	"Confidence": 0.39
 }, {
-	"HEIC_File": "00817.heic",
-	"MOV_File": "01470.mov",
-	"Confidence": 0.39
-}, {
-	"HEIC_File": "00817.heic",
-	"MOV_File": "01470.mov",
-	"Confidence": 0.39
-}, {
-	"HEIC_File": "00817.heic",
-	"MOV_File": "01470.mov",
-	"Confidence": 0.36
-}, {
-	"HEIC_File": "00817.heic",
-	"MOV_File": "01470.mov",
-	"Confidence": 0.39
-}, {
-	"HEIC_File": "00817.heic",
-	"MOV_File": "01470.mov",
-	"Confidence": 0.39
-}, {
-	"HEIC_File": "00817.heic",
-	"MOV_File": "01470.mov",
-	"Confidence": 0.39
-}, {
-	"HEIC_File": "00817.heic",
-	"MOV_File": "01470.mov",
-	"Confidence": 0.33
-}, {
-	"HEIC_File": "00817.heic",
-	"MOV_File": "01470.mov",
-	"Confidence": 0.39
-}, {
-	"HEIC_File": "00817.heic",
-	"MOV_File": "01470.mov",
-	"Confidence": 0.39
-}, {
-	"HEIC_File": "00817.heic",
-	"MOV_File": "01470.mov",
-	"Confidence": 0.36
-}, {
-	"HEIC_File": "02156.heic",
-	"MOV_File": "01560.mov",
-	"Confidence": 0.36
-}, {
-	"HEIC_File": "02168.heic",
-	"MOV_File": "01506.mov",
-	"Confidence": 0.33
-}, {
-	"HEIC_File": "02168.heic",
-	"MOV_File": "01506.mov",
-	"Confidence": 0.36
-}, {
-	"HEIC_File": "02168.heic",
-	"MOV_File": "01506.mov",
-	"Confidence": 0.33
-}, {
-	"HEIC_File": "02168.heic",
-	"MOV_File": "01506.mov",
-	"Confidence": 0.33
-}, {
-	"HEIC_File": "02168.heic",
-	"MOV_File": "01506.mov",
-	"Confidence": 0.42
-}, {
-	"HEIC_File": "02168.heic",
-	"MOV_File": "01506.mov",
-	"Confidence": 0.42
-}, {
-	"HEIC_File": "02168.heic",
-	"MOV_File": "01506.mov",
-	"Confidence": 0.36
-}, {
-	"HEIC_File": "02168.heic",
-	"MOV_File": "01506.mov",
-	"Confidence": 0.36
-}, {
-	"HEIC_File": "02173.heic",
-	"MOV_File": "01589.mov",
-	"Confidence": 0.33
-}, {
-	"HEIC_File": "02173.heic",
-	"MOV_File": "01427.mov",
-	"Confidence": 0.33
-}, {
-	"HEIC_File": "02173.heic",
-	"MOV_File": "01561.mov",
-	"Confidence": 0.33
-}, {
 	"HEIC_File": "02183.heic",
 	"MOV_File": "01597.mov",
 	"Confidence": 0.36
 }]
 ```
+Need to be attention: One Single File Can Give many Results,like `00817.heic` in Example
